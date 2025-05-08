@@ -1,0 +1,19 @@
+Emotion,Pitch,Loudness,Speech Rate,Pitch Variability,Jitter,Shimmer,Formant Changes,MFCCs,HNR,Spectral Centroid,ZCR
+Happiness,"High, melodic",Moderate to high,Moderately fast,Wide,Low,Low,Raised F2 (smiling),"Bright, clear","High, clear",High,Moderate
+Sadness,"Low, flat",Low,"Slow, drawn out",Narrow,Moderate,Moderate to high,Lowered F1,"Dull, low-energy","Low, breathy",Low,Low
+Anger,"High, variable","High, sharp bursts","Fast, clipped",Wide,Moderate to high,Moderate,Raised F1,"Bright, high-energy","High, harsh tone",High,High
+Fear/Anxiety,"Very high, unstable","Low to moderate, tense",Fast with hesitations,Tight,High,High,"Raised F0, less clear formants","Bright, irregular","Low, unstable",Variable,High
+Disgust,"Low, descending",Low to moderate,"Slow, abrupt",Low,Low,Moderate,Lowered F1,"Dull, nasal",Low,Low,Low
+Surprise,Sudden spike,"High, brief",Fast and short,Spike + fall,N/A,N/A,N/A,Sharp burst,N/A,High (brief),Spike
+Amusement,"High, variable",Moderate to high,Fast,Wide,Low,Low,Raised F2,Bright,High,High,High
+Contempt,Low,Low,Slow,Low,Moderate,Moderate,Lowered F2,Dull,Low,Low,Low
+Contentment,Low to moderate,Low,Slow,Narrow,Low,Low,Flat formants,Flat,High,Low,Low
+Embarrassment,Variable,Moderate,Slow,Variable,Moderate,Moderate,Shifting,Variable,Moderate,Mid,Mid
+Excitement,"High, rising",High,Fast,Wide,Moderate,Moderate,Raised F2,Sharp,High,High,High
+Guilt,Low,Low,Slow,Low,Moderate,Moderate,Lowered F1,Dull,Moderate,Low,Low
+Pride in achievement,Moderate to high,Moderate,Moderate,Moderate,Low,Low,Raised F1,Resonant,High,Mid,Moderate
+Relief,Moderate,Moderate,Slow,Narrow,Low,Low,Flat,Smooth,High,Low,Low
+Satisfaction,Moderate,Moderate,Moderate,Moderate,Low,Low,Balanced,Balanced,High,Mid,Moderate
+Sensory pleasure,Variable,Moderate,Moderate,Moderate,Low,Low,Variable,Smooth,Moderate,Mid,Moderate
+Shame,Low,Low,Slow,Low,Moderate,Moderate,Lowered F1,Dull,Low,Low,Low
+Triumph,High,High,Fast,Wide,Moderate,Moderate,Raised F1 and F2,Bright,High,High,High
